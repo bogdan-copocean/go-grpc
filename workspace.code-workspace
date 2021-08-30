@@ -1,0 +1,14 @@
+{
+    "folders": [
+            {
+                    "path": "calculator"
+            },
+            {
+                    "path": "greet"
+            }
+    ],
+    "remoteAuthority": "wsl+Ubuntu",
+    "settings": {
+            "git.ignoreLimitWarning": true
+    }
+}
